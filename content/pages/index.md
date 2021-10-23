@@ -52,7 +52,7 @@ sections:
     image: images/cta-bg.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Découvrir
       url: /store
       style: secondary
       arrow: true
