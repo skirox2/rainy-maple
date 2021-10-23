@@ -5,7 +5,7 @@ price: '400.00'
 title: Fusce sagittis
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/bg.jpg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/bg.jpg
 featured: true
 order: 9
 category: content/pages/category/cactuses.md
