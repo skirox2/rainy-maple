@@ -14,15 +14,10 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+      - description: >
+          nous cherchions un moyen de profiter de nos études à metre à profit
+          voilà pourquoi nous vous proposons des biens dans des prix
+          raisonnables en crée un vrais shop à votre disposition
         image: images/cta-bg.jpg
         title: En quoi sommes-nous utiles
       - title: We think plants are the future
