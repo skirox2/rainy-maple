@@ -35,6 +35,7 @@ sections:
       url: /store
       style: primary
       arrow: true
+    title: 'Nous '
 seo:
   title: About
   description: This is the about page
