@@ -58,7 +58,7 @@ sections:
       arrow: true
 seo:
   title: Réaumur-Buron 
-  description: The preview of the Planty theme
+  description: The preview of the Réaumur-Buron 
   extra:
     - name: 'og:type'
       value: website
