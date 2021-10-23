@@ -43,7 +43,7 @@ sections:
         text: 'Ne cherche point par la force, ce que tu peux obtenir de bon gré.'
       - author:
           name: Jean-Louis
-          location: 'VA, USA'
+          location: dit abbé Aubert
         text: Bon coeur peut quelquefois tenir lieu de bon sens.
   - type: promotion_section
     section_id: promotion_section
