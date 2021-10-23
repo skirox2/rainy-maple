@@ -47,7 +47,7 @@ sections:
         text: Bon coeur peut quelquefois tenir lieu de bon sens.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: des produits en abondance
     subtitle: from $149.99
     image: images/cta-bg.jpg
     background_image: images/leaf.svg
