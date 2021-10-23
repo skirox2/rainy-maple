@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/OIP-t.jpg
+    background_image: images/hero-bg.jpg
     background_image_opacity: 65
     content: >
       # TESTE
