@@ -57,7 +57,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Rea
+  title: ReaumurRéaumur 
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
