@@ -78,7 +78,7 @@ seo:
     - name: 'twitter:title'
       value: Réaumur-Buron 
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: The preview of the Réaumur-Buron 
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
