@@ -54,7 +54,7 @@ sections:
     section_id: contact_section
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
-    email: geeks@snipcart.com
+    email: reaumur-buron@nondisponible.fr
     mapUrl: >-
       https://www.google.fr/maps/place/Lyc%C3%A9e+R%C3%A9aumur/@48.0679328,-0.7615059,16.74z/data=!4m5!3m4!1s0x4808fde3501a8f35:0x9b5d44b3feddb0cb!8m2!3d48.0673838!4d-0.7588871
 seo:
