@@ -52,7 +52,7 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
+    address: '39 Av. Chanzy, 53000 Laval'
     phone: +1-202-555-0112
     email: reaumur-buron@nondisponible.fr
     mapUrl: >-
