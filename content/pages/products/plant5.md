@@ -7,7 +7,7 @@ description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
 default_thumbnail_image: images/bg.jpg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/bg.jpg
 featured: true
 order: 5
 category: content/pages/category/bigplants.md
