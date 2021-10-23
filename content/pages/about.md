@@ -27,7 +27,7 @@ sections:
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
-    subtitle: jkbkjbjhbjb
+    subtitle: Direction shop
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
