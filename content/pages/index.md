@@ -48,7 +48,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: des produits en abondance
-    subtitle: from $149.99
+    subtitle: rien que pour vous
     image: images/cta-bg.jpg
     background_image: images/leaf.svg
     cta:
