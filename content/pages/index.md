@@ -39,7 +39,7 @@ sections:
     testimonials:
       - author:
           name: xxxx xxxxx
-          location: 'Colorado, USA'
+          location: Proverbes anglais
         text: 'Ne cherche point par la force, ce que tu peux obtenir de bon gré.'
       - author:
           name: Major Payne
