@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: xxxx xxxxx
           location: 'Colorado, USA'
         text: 'Ne cherche point par la force, ce que tu peux obtenir de bon gré.'
       - author:
