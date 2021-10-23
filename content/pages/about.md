@@ -31,7 +31,7 @@ sections:
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
-      title: Discover
+      title: GO
       url: /store
       style: primary
       arrow: true
