@@ -42,7 +42,7 @@ sections:
           location: Proverbes anglais
         text: 'Ne cherche point par la force, ce que tu peux obtenir de bon gré.'
       - author:
-          name: Major Payne
+          name: Jean-Louis
           location: 'VA, USA'
         text: Bon coeur peut quelquefois tenir lieu de bon sens.
   - type: promotion_section
