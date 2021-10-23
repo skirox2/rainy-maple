@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: '39 Av. Chanzy, 53000 Laval'
-    phone: +1-202-555-0112
+    phone: +33 ** ** ** ** **
     email: reaumur-buron@nondisponible.fr
     mapUrl: >-
       https://www.google.fr/maps/place/Lyc%C3%A9e+R%C3%A9aumur/@48.0679328,-0.7615059,16.74z/data=!4m5!3m4!1s0x4808fde3501a8f35:0x9b5d44b3feddb0cb!8m2!3d48.0673838!4d-0.7588871
