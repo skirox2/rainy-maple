@@ -13,6 +13,7 @@ sections:
       enable e-commerce on Planty, you’ll need to [sign up for
       Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
       required.
+    headline: nous sommes qui ?
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
