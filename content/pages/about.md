@@ -24,6 +24,7 @@ sections:
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
         image: images/nan_talk.jpg
+        title: en quoi sommes-nous utiles
       - title: We think plants are the future
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
