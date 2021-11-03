@@ -8,7 +8,7 @@ export default class SmallBuyButton extends React.Component {
         let product_page = _.get(this.props, 'product_page', null);
         let component = _.get(this.props, 'component', null);
         return (
-          #  <button className={component + '__item-buy button button--icon-only snipcart-add-item'}
+            <button className={component + '__item-buy button button--icon-only snipcart-add-item'}
                 data-item-name={_.get(product_page, 'frontmatter.title', null)}
                 data-item-url={_.get(product_page, '__metadata.urlPath', null)}
                 data-item-price={_.get(product_page, 'frontmatter.price', null)}
